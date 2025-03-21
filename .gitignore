@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Project specific
+android-sdk/
+android-studio.dmg
+commandlinetools-mac-10406996_latest.zip
+openjdk.pkg
+油罐管理系统.dmg
